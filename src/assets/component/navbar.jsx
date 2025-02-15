@@ -2,9 +2,9 @@ import { useState } from "react";
 import "remixicon/fonts/remixicon.css";
 
 const navbar = () => {
-  const [toggle, setToggle] = useState(false);
-  const handleclick = () => {
-    setToggle(!toggle);
+  const [toggle, setToggle] = useState(false);//set toggle itu adalah fungsi untuk memperbarui nilai dari toggle
+  const handleclick = () => { //saat di click fungsinya membalik nilai toggle
+    setToggle(!toggle);//mengubah nilai toogle dari false menjadi true
     // console.log(toggle);
   };
 
