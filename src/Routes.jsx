@@ -1,6 +1,6 @@
-import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
-import Navbar from "./assets/component/navbar";
-import Footer from "./assets/component/footer";
+import { createBrowserRouter, Outlet } from "react-router-dom";
+import Navbar from "./assets/component/Navbar";  // Sesuaikan path
+import Footer from "./assets/component/Footer";  // Sesuaikan path
 import Home from "./pages/Home";
 import About from "./pages/About";
 

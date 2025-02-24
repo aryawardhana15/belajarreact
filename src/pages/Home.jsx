@@ -16,7 +16,7 @@ export default function Home() {
       </Link>
       <section>
         <div className="mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4">
-          <div className="flex flex-col  bg-white p-6 rounded-lg shadow-lg"></div>
+          <div className="flex flex-col  bg-white text-black p-6 rounded-lg shadow-lg">halo</div>
           <div className="flex flex-col  bg-white p-6 rounded-lg shadow-lg"></div>
           <div className="flex flex-col  bg-white p-6 rounded-lg shadow-lg"></div>
           <div className="flex flex-col bg-white p-6 rounded-lg shadow-lg"></div>
