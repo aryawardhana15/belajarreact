@@ -111,7 +111,7 @@ export default function Home() {
           Kami adalah platform belajar online yang menyediakan berbagai materi
           pembelajaran interaktif dan modern. Dengan dukungan teknologi terkini,
           kami membantu Anda mencapai tujuan belajar dengan lebih mudah dan
-          menyenangkan.
+          menyenangkan
         </p>
       </section>
     </div>
