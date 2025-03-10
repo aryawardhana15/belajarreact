@@ -3,7 +3,7 @@ import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-// Daftarkan plugin ScrollTrigger
+
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Home() {
