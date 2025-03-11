@@ -33,7 +33,7 @@ export default function Home() {
         ease: "bounce.out",
       });
 
-      // Animasi untuk tombol
+     
       gsap.from(buttonRef.current, {
         opacity: 0,
         y: 50,
