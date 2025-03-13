@@ -42,7 +42,6 @@ export default function Home() {
         ease: "back.out(1.7)",
       });
 
-      // Animasi untuk card
       gsap.from(cardRefs.current, {
         opacity: 0,
         y: 50,
